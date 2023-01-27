@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pratikaman
-- 👀 I’m interested in Machine Learning,Deep learning.
-- 🌱 I’m currently learning Introductory Machine Learning topics
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in App development, Machine Learning, Deep learning.
+- 🌱 I’m currently learning and creating apps with Flutter and Python.
+<!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me- pratikaman.atom@gmail.com
 
 <!---
