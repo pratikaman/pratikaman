@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pratikaman
-- 🌱 I’m currently learning and creating apps with Flutter and Python.
+- 🌱 I’m currently fucking with my life..
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me- pratikaman.atom@gmail.com
 
